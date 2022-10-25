@@ -10,7 +10,7 @@
 apm install close-all-errors
 
 ```
-Or Settings/Preferences ➔ Packages ➔ Search for close-all-errors
+daorongdaorongdaorong
 
 ## Usage <small>用法
 Open the [Command Palette](https://github.com/atom/command-palette), type `close-all-errors`, and run `close-all-errors`.
