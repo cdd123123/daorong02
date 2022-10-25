@@ -10,7 +10,7 @@
 apm install close-all-errors
 
 ```
-daorongdaorongdaorong
+daorong021---daorong021
 
 ## Usage <small>用法
 Open the [Command Palette](https://github.com/atom/command-palette), type `close-all-errors`, and run `close-all-errors`.
